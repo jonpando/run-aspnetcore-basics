@@ -5,7 +5,7 @@ pipeline {
     environment {
         SONAR_ORG = "julio2019vp"
         PROJECT_KEY = "run-aspnetcore-basics"
-        IMAGE_NAME = "julio2019vp/run-aspnetcore-basics"
+        IMAGE_NAME = "julio19vp/run-aspnetcore-basics"
     }
 
     stages {
