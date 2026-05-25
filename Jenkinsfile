@@ -5,7 +5,7 @@ pipeline {
     environment {
         SONAR_ORG = "jonpando"
         PROJECT_KEY = "run-aspnetcore-basics"
-        IMAGE_NAME = "jonpando26/run-aspnetcore-basics"
+        IMAGE_NAME = "jonpando/run-aspnetcore-basics"
     }
 
     stages {
