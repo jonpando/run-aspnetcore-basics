@@ -3,9 +3,9 @@ pipeline {
     agent any
 
     environment {
-        SONAR_ORG = "julio2019vp"
+        SONAR_ORG = "jonpando"
         PROJECT_KEY = "run-aspnetcore-basics"
-        IMAGE_NAME = "julio19vp/run-aspnetcore-basics"
+        IMAGE_NAME = "jonpando2026/run-aspnetcore-basics"
     }
 
     stages {
